@@ -69,7 +69,7 @@ Fed decision market (kalshi.com/markets/kxfeddecision), S&P/Nasdaq range markets
 - **Bloomberg:** bloomberg.com/markets; X @business (active), @BloombergTV (active), @TheTerminal (active); @markets and @BloombergAsia exist but quiet since ~Aug 2026 (check, do not rely). YouTube: Bloomberg Television UCIALMKvObZNtJ6AmdCLP7Lg incl. The Asia Trade, Odd Lots, The China Show.
 - **Goldman Sachs:** goldmansachs.com/insights incl. Market Pulse, Top of Mind, Hedge Fund Trend Monitor and The Markets podcast; YouTube Goldman Sachs UCyz6-taovlaOkPsPtK4KNEg; X @GoldmanSachs (active). PB weekly notes are paywalled: cite only public GS pages or reputable reports of them.
 
-## Crypto & crypto equities (X verified 2026-10-12 18:05 CEST; exists + posted within ~2 weeks unless noted)
+## Crypto & crypto equities (X verified 2026-10-12 18:05 CEST, existence reconfirmed 2026-11-04; exists + posted within ~2 weeks unless noted)
 | Handle | Name | Why | Region |
 |---|---|---|---|
 | @FarsideUK | Farside Investors | US spot BTC/ETH ETF daily/weekly flows | Global |
